@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Sohag",
+			"country": {
+				"code": "EG",
+				"name": "Egypt"
+			},
+			"subdivision": {
+				"code": "SHG",
+				"name": "Sohag"
+			},
+			"timezone": "Africa/Cairo",
+			"latitude": 26.5569,
+			"longitude": 31.6959
+		},
+		"timestamp": 1744628555082
+	}
+}
