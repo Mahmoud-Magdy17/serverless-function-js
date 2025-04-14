@@ -1,6 +1,7 @@
 {
   "name": "chat-function",
   "dependencies": {
+    "@gradio/client": "^1.0.0",
     "@netlify/functions": "^3.0.4"
   }
 }
